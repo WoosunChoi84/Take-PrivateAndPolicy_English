@@ -1,0 +1,1 @@
+# Take-PrivateAndPolicy_English
