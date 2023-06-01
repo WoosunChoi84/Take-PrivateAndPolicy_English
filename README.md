@@ -61,23 +61,23 @@ Article 10 (Matters concerning the processing of pseudonymous information in cas
 < DesignX > processes pseudonymous information for the following purposes.
 
 ▶ Purpose of processing pseudonymous information
-
 not processed.
+  
 ▶ Processing and retention period of pseudonymous information
-
 No retention period.
+  
 ▶ Matters concerning the provision of pseudonymous information to third parties (to be completed only if applicable)
-
 not provided.
+  
 ▶ Matters concerning consignment of pseudonymous information processing (to be completed only if applicable)
-
 not commissioned.
+  
 ▶ Items of personal information subject to pseudonymization
-
 doesn't exist.
+  
 ▶ Matters concerning measures to ensure the safety of pseudonymous information in accordance with Article 28-4 of the Act (duty of safety measures for pseudonymous information, etc.)
-
 None.
+  
 Article 11 (Matters on Person in Charge of Personal Information Protection)
 
 ① DesignX is responsible for overall handling of personal information, and designates the person in charge of personal information protection as follows to handle complaints and damage relief of information subjects related to personal information processing.
