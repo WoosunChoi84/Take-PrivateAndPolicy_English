@@ -101,6 +101,7 @@ Article 16 (Change of Privacy Policy)
 ① This privacy policy is effective from January 1, 2023.
   
   
+  
   - Terms of Use
 
 We follow the standard Apple Terms and Conditions. You can view the full terms and conditions below.
