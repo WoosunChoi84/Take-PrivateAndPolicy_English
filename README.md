@@ -1,5 +1,7 @@
 # Take-PrivateAndPolicy_English
 
+- Private And Policy
+
 < DesignX > ('www.facebook.com/people/TAKE-health-scheduler/100092895755294' or 'TAKE: Health scheduler') protects the personal information of information subjects in accordance with Article 30 of the 「Personal Information Protection Act」 In order to promptly and smoothly handle grievances related to this, we establish and disclose the following personal information processing policy.
 
 ○ This Privacy Policy is effective from January 1, 2023.
@@ -97,3 +99,10 @@ In response to requests under the provisions of Article 35 (Access to Personal I
 Article 16 (Change of Privacy Policy)
 
 ① This privacy policy is effective from January 1, 2023.
+  
+  
+  - Terms of Use
+
+We follow the standard Apple Terms and Conditions. You can view the full terms and conditions below.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
